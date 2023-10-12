@@ -1,2 +1,2 @@
-# imaotai
-茅台自动申购备份
+# QXscript
+QXscript备份
