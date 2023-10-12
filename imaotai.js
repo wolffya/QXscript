@@ -6,7 +6,6 @@
  * @update 20231011
  * @version 1.0.1
  ******************************************
-###详细见同目录README
 ```Quantumult X
 [mitm]
 hostname = app.moutai519.com.cn
