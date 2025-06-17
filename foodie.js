@@ -5,7 +5,7 @@ if ($request.url.includes(targetPath)) {
         JSON.parse($response.body);
 
         const now = Date.now();
-        const sevenDaysFromNow = now + 604800000;
+        const sevenDaysFromNow = now + 6048000000000;
 
         const newBody = {
             "result": {
